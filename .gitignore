@@ -7,3 +7,4 @@ temp/
 yarn/
 yarnrc/
 yarn-error.log/
+dist/
